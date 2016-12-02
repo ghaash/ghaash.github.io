@@ -1,0 +1,21 @@
+# Site settings
+title: Coding With The Dog!
+header-img: img/home-bg.png
+email: daniel.silverman@me.com
+copyright_name: ghaash
+description: > # this means to ignore newlines until "baseurl:"
+  Coding with my dog, Poe
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: ghaash
+github_username:  ghaash
+learn_profile: ghaash
+email_username: daniel.silverman@me.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
