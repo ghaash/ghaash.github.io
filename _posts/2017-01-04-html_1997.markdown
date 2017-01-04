@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "HTML, 1997"
-date:   2017-01-04 19:06:38 +0000
+date:   2017-01-04 14:06:38 -0500
 ---
 
 
@@ -18,3 +18,7 @@ It was a lot of fun, you could just take people's code, modify it to your liking
 Those were the days, when the internet was new, and lawless.
 
 I had a lot of fun.
+
+edit:
+
+Now that I've started the Flatiron School, I'm glad to see that HTML is all-new. I honestly still thought the web was just a very complex set of HTML. Glad to see that CSS, ruby and javascript are now a part of what makes the interwebz AWESOME!
