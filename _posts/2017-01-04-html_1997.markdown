@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "HTML, 1997"
+date:   2017-01-04 19:06:38 +0000
+---
+
+
+HTML and I go way back, twenty years back, to 1997. That's when I finally convinced my parents that the internet was the next big, we got the interwebz through a dial-up Earthlink account and it was glorious.
+
+That alone spurred my interested in HTML and programming. How were web pages made? What were they made of? How did they talk to each other? How did my e-mail work? How did my video games work!?
+
+I did some research, suprisingly on the internet and in books and discovered the world of programming. I was only 13 at the time and anything with a C (the C group of programming languages was too complex for me) was out of the question. 
+
+So, I started with HTML. I learned it by going to web pages I visited it often, right-clicked on view source which spilled the bills on all of that glorious HTML. I'd take snippets from here and there, fiddle with them in notepad and upload them through a FTP to see what the changes were.
+
+It was a lot of fun, you could just take people's code, modify it to your liking and have your own web page.
+
+Those were the days, when the internet was new, and lawless.
+
+I had a lot of fun.
