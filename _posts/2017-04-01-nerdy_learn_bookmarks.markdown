@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Nerdy Learn Bookmarks"
-date:   2017-04-01 05:35:58 +0000
+date:   2017-04-01 01:35:59 -0400
 ---
 
 
