@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+
+<html>
+
+  <head>
+    <link rel="stylesheet" href="styles.css">
+    <title>PlayStation Code Challenge with Twitch</title>
+  </head>
+
+  <body>
+    
+    <div class="title_bar">
+      <h1>PlayStation Homework Assignment</h1>
+    </div>
+
+    <div>
+        <input type="text" placeholder="Search query..." id="search_name" name="search_name">
+        <button class="button" type="button" onClick=getValue();>search</button>
+    </div>
+
+<hr>
+
+  <div class="results_bar">
+    <div id="total_results">Total Results: 20</div>
+    <div class="pagination_arrows">
+      <button type="button" class="triangle-left" id="backward" onClick=backwardPagination();></button>
+      Pagination
+      <button type="button"id="forward" class="triangle-right" onClick=forwardPagination();></button>
+    </div>
+  </div>
+
+  <br>
+
+  <div id="individual_results" class="individual_results"></div>
+  <script src="script.js"></script>
+  </body>
+
+</html>
